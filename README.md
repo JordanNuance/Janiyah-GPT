@@ -29,4 +29,4 @@ and ethical technology use.
 
 - [Ami GPT](https://github.com/JordanNuance/Ami-GPT)
 - [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking)
-- Prompting Success
+- [Prompting Success](https://github.com/JordanNuance/prompting-success-generative-ai-teaching-research)
