@@ -28,5 +28,5 @@ and ethical technology use.
 ## Related Projects
 
 - [Ami GPT](https://github.com/JordanNuance/Ami-GPT)
-- Prompting Humanistic Thinking
+- [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking)
 - Prompting Success
