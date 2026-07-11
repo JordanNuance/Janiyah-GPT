@@ -21,9 +21,10 @@ and ethical technology use.
 ## Companion Resources
 
 • [Black-Liberation.Tech](https://www.black-liberation.tech/)
-• Podcast Episodes
+• Podcast Episodes: [How to Design AI Workshops That Actually WOrk](https://youtu.be/1-0rVc8GaqY?si=v0KqV5fruGjzkvyw) & [Ag-STEM Career Discovery Lab Series](https://www.youtube.com/watch?v=NY9ujXER0gU&list=PLRPCn_ihIovs)
 • [Career Discovery Labs](https://www.black-liberation.tech/ag-stem-career-discovery-lab.html)
-• [Workshop Activities](https://www.black-liberation.tech/intro-workshop.html)
+• [Intro Workshop](https://www.black-liberation.tech/intro-workshop.html)
+• [Ag-STEM Career Discovery Lab](https://www.black-liberation.tech/ag-stem-career-discovery-lab.html)
 
 ## Related Projects
 
