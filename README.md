@@ -29,4 +29,4 @@ and ethical technology use.
 
 - Ami GPT
 - Prompting Humanistic Thinking
-- Humanistic Prompt Engineering
+- Prompting Success
