@@ -27,6 +27,7 @@ and ethical technology use.
 • [Intro Workshop](https://www.black-liberation.tech/intro-workshop.html)
 • [Ag-STEM Career Discovery Lab](https://www.black-liberation.tech/ag-stem-career-discovery-lab.html)
 • [Laboratorio de Exploración de Carreras Ag-STEM](https://www.esblack-liberation.tech/laboratorio-de-exploracioacuten-de-carreras-ag-stem.html)
+• [Thriving Through Challenges](https://pressbooks.pub/thrivingthroughchallenges/)
 
 ## Related Projects
 
